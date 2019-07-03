@@ -135,6 +135,9 @@ Eu como chefe de cozinha quero ver os pedidos dos clientes em ordem, poder marca
 
 ## 4. Como utilizar
 
+![Página Inicial](src/img/tela_inicial.png)
+
+
 ### Passos
 
 1. Clone o repositório no seu computador:
