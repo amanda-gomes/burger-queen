@@ -135,7 +135,7 @@ Eu como chefe de cozinha quero ver os pedidos dos clientes em ordem, poder marca
 
 ## 4. Como utilizar
 
-![Página Inicial](src/img/print_tela_inicial.png)
+![Página Inicial](src/img/print tela inicial.png)
 
 
 ### Passos
